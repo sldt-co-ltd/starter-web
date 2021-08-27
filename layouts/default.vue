@@ -9,8 +9,8 @@
 </template>
 
 <script>
-import Header from "../components/layouts/Header";
-import Footer from "../components/layouts/Footer";
+import Header from "../components/layouts/TheHeader";
+import Footer from "../components/layouts/TheFooter";
 
 export default {
   components: {
